@@ -1,0 +1,4 @@
+Assets/_Project/3d/Models/Ninja/Ch24_nonPBR.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/_Project/3D/Models/Swat/Ch15_nonPBR.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/_Project/3D/Models/Swat/Textures/*.png filter=lfs diff=lfs merge=lfs -text
+Assets/_Project/3D/Models/Ninja/Textures/*.png filter=lfs diff=lfs merge=lfs -text
